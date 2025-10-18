@@ -1,3 +1,3 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado o utilizó otros comandos que no se mencionan al realizar la práctica también se debe documentar.
+Con esta práctica 3 aumentaron mis aprendizajes fundamentales para mi formación profesional. Antes de la práctica, Docker era un concepto que no lo tenia claro; ahora, ya domino la creación y la comunicación de Drupal y Postgres dentro de una red virtual. El mayor logro fue la gestión de la persistencia de datos y la resolución de errores comunes de entornos.
+Estas habilidades de diagnóstico y configuración de la persistencia y seguridad son esenciales para el despliegue de cualquier aplicación web en la actualidad. ya que al usar volumenes evito la perdida de información importante. 
+Fue una práctica muy llamativa, ya que si me tocó investigar algunas cosas y así reforcé los comando de las practicas anteriores también.
