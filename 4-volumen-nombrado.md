@@ -76,7 +76,10 @@ docker run -d --name server-drupal -p 9700:80 -v drupal_code:/var/www/html -v dr
 
 <img width="870" height="493" alt="imagen" src="https://github.com/user-attachments/assets/55fae068-283d-43ab-8ffe-46eda1c352eb" />
 
-# COMPLETAR CON EL DIAGRAMA SOLICITADO
+#DIAGRAMA
+
+<img width="784" height="478" alt="imagen" src="https://github.com/user-attachments/assets/8e208246-e83b-4f1e-be3a-3a8406f38b78" />
+
 
 ### Eliminar un volumen específico
 ```
